@@ -11,4 +11,4 @@ target/
 *.ipr
 
 # Exclude sensitive configuration files
-#application.properties
+application.properties
